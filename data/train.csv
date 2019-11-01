@@ -1,0 +1,514 @@
+id_image,label_image
+0,city
+1,city
+2,city
+3,city
+4,city
+5,city
+6,city
+7,city
+8,city
+9,city
+10,city
+11,city
+12,city
+13,city
+14,city
+15,city
+16,city
+17,city
+18,city
+19,city
+20,city
+21,city
+22,city
+23,city
+24,city
+25,city
+26,city
+27,city
+28,city
+29,city
+30,city
+31,city
+32,city
+33,city
+34,city
+35,city
+36,city
+37,city
+38,city
+39,city
+40,city
+41,city
+42,city
+43,city
+44,city
+45,city
+46,city
+47,city
+48,city
+49,city
+50,city
+51,city
+52,city
+53,city
+54,city
+55,city
+56,city
+57,city
+58,city
+59,city
+60,city
+61,city
+62,city
+63,city
+64,city
+65,city
+66,city
+67,city
+68,city
+69,city
+70,city
+71,city
+72,city
+73,city
+74,city
+75,city
+76,city
+77,city
+78,city
+79,city
+80,city
+81,city
+82,city
+83,city
+84,city
+85,city
+86,city
+87,city
+88,city
+89,city
+90,city
+91,city
+92,city
+93,city
+94,city
+95,city
+96,city
+97,city
+98,city
+99,city
+100,city
+101,city
+102,city
+103,city
+104,city
+105,city
+106,city
+107,city
+108,city
+109,city
+110,city
+111,city
+112,city
+113,city
+114,city
+115,city
+116,city
+117,city
+118,city
+119,city
+120,city
+121,city
+122,city
+123,city
+124,city
+125,city
+126,city
+127,city
+128,city
+129,city
+130,city
+131,city
+132,city
+133,city
+134,city
+135,city
+136,city
+137,city
+138,city
+139,city
+140,city
+141,city
+142,domestic
+143,domestic
+144,domestic
+145,domestic
+146,domestic
+147,domestic
+148,domestic
+149,domestic
+150,domestic
+151,domestic
+152,domestic
+153,domestic
+154,domestic
+155,domestic
+156,domestic
+157,domestic
+158,domestic
+159,domestic
+160,domestic
+161,domestic
+162,domestic
+163,domestic
+164,domestic
+165,domestic
+166,domestic
+167,domestic
+168,domestic
+169,domestic
+170,domestic
+171,domestic
+172,domestic
+173,domestic
+174,domestic
+175,domestic
+176,domestic
+177,domestic
+178,domestic
+179,domestic
+180,domestic
+181,domestic
+182,domestic
+183,domestic
+184,domestic
+185,domestic
+186,domestic
+187,domestic
+188,domestic
+189,domestic
+190,domestic
+191,domestic
+192,domestic
+193,domestic
+194,domestic
+195,domestic
+196,domestic
+197,domestic
+198,domestic
+199,domestic
+200,domestic
+201,domestic
+202,domestic
+203,domestic
+204,domestic
+205,domestic
+206,domestic
+207,domestic
+208,domestic
+209,domestic
+210,domestic
+211,domestic
+212,domestic
+213,domestic
+214,domestic
+215,domestic
+216,domestic
+217,domestic
+218,forest
+219,forest
+220,forest
+221,forest
+222,forest
+223,forest
+224,forest
+225,forest
+226,forest
+227,forest
+228,forest
+229,forest
+230,forest
+231,forest
+232,forest
+233,forest
+234,forest
+235,forest
+236,forest
+237,forest
+238,forest
+239,forest
+240,forest
+241,forest
+242,forest
+243,forest
+244,forest
+245,forest
+246,forest
+247,forest
+248,forest
+249,forest
+250,forest
+251,forest
+252,forest
+253,forest
+254,forest
+255,forest
+256,forest
+257,forest
+258,forest
+259,forest
+260,forest
+261,forest
+262,forest
+263,forest
+264,forest
+265,forest
+266,forest
+267,forest
+268,forest
+269,forest
+270,forest
+271,forest
+272,forest
+273,forest
+274,forest
+275,forest
+276,forest
+277,forest
+278,forest
+279,forest
+280,forest
+281,forest
+282,forest
+283,forest
+284,forest
+285,forest
+286,forest
+287,forest
+288,forest
+289,forest
+290,forest
+291,forest
+292,forest
+293,forest
+294,forest
+295,forest
+296,forest
+297,forest
+298,forest
+299,forest
+300,forest
+301,forest
+302,forest
+303,forest
+304,forest
+305,forest
+306,forest
+307,forest
+308,forest
+309,forest
+310,forest
+311,forest
+312,forest
+313,forest
+314,forest
+315,forest
+316,forest
+317,forest
+318,forest
+319,forest
+320,forest
+321,forest
+322,forest
+323,forest
+324,forest
+325,forest
+326,forest
+327,forest
+328,forest
+329,forest
+330,forest
+331,forest
+332,forest
+333,forest
+334,forest
+335,forest
+336,forest
+337,forest
+338,forest
+339,forest
+340,forest
+341,forest
+342,forest
+343,forest
+344,forest
+345,medical
+346,medical
+347,medical
+348,medical
+349,medical
+350,medical
+351,medical
+352,medical
+353,medical
+354,medical
+355,medical
+356,medical
+357,medical
+358,medical
+359,medical
+360,medical
+361,medical
+362,medical
+363,medical
+364,medical
+365,medical
+366,medical
+367,medical
+368,medical
+369,medical
+370,medical
+371,non garbage
+372,non garbage
+373,non garbage
+374,non garbage
+375,non garbage
+376,non garbage
+377,non garbage
+378,non garbage
+379,non garbage
+380,non garbage
+381,non garbage
+382,non garbage
+383,non garbage
+384,non garbage
+385,non garbage
+386,non garbage
+387,non garbage
+388,non garbage
+389,non garbage
+390,non garbage
+391,non garbage
+392,non garbage
+393,non garbage
+394,non garbage
+395,non garbage
+396,non garbage
+397,non garbage
+398,non garbage
+399,non garbage
+400,non garbage
+401,non garbage
+402,non garbage
+403,non garbage
+404,non garbage
+405,non garbage
+406,non garbage
+407,non garbage
+408,non garbage
+409,non garbage
+410,non garbage
+411,non garbage
+412,non garbage
+413,non garbage
+414,non garbage
+415,non garbage
+416,non garbage
+417,non garbage
+418,non garbage
+419,non garbage
+420,non garbage
+421,non garbage
+422,non garbage
+423,non garbage
+424,non garbage
+425,non garbage
+426,non garbage
+427,non garbage
+428,non garbage
+429,non garbage
+430,non garbage
+431,non garbage
+432,non garbage
+433,non garbage
+434,non garbage
+435,non garbage
+436,non garbage
+437,non garbage
+438,non garbage
+439,non garbage
+440,non garbage
+441,non garbage
+442,non garbage
+443,non garbage
+444,non garbage
+445,non garbage
+446,non garbage
+447,non garbage
+448,non garbage
+449,non garbage
+450,non garbage
+451,non garbage
+452,non garbage
+453,non garbage
+454,non garbage
+455,non garbage
+456,non garbage
+457,non garbage
+458,non garbage
+459,non garbage
+460,non garbage
+461,non garbage
+462,non garbage
+463,non garbage
+464,non garbage
+465,non garbage
+466,non garbage
+467,non garbage
+468,non garbage
+469,non garbage
+470,non garbage
+471,non garbage
+472,non garbage
+473,non garbage
+474,non garbage
+475,non garbage
+476,non garbage
+477,non garbage
+478,non garbage
+479,non garbage
+480,non garbage
+481,non garbage
+482,non garbage
+483,non garbage
+484,non garbage
+485,non garbage
+486,non garbage
+487,non garbage
+488,non garbage
+489,non garbage
+490,non garbage
+491,non garbage
+492,non garbage
+493,non garbage
+494,non garbage
+495,non garbage
+496,non garbage
+497,non garbage
+498,non garbage
+499,non garbage
+500,non garbage
+501,non garbage
+502,non garbage
+503,non garbage
+504,non garbage
+505,non garbage
+506,non garbage
+507,non garbage
+508,non garbage
+509,non garbage
+510,non garbage
+511,non garbage
+512,non garbage
